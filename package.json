@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mrman511/bootcamp_app/issues"
   },
-  "homepage": "https://github.com/mrman511/bootcamp_app#readme"
+  "homepage": "https://github.com/mrman511/bootcamp_app#readme",
+  "dependencies": {
+    "pg": "^8.7.3"
+  }
 }
